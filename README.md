@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Data Analysis Projects with python(Pandas)</b>
-  - [Titanic Data Analysis]()
+  - [Titanic Data Analysis](https://github.com/sirskin01/job/blob/main/%20Suv%20Practice%20copy.ipynb)
   - []()
 
 - <b>SQL Database Projects</b>
