@@ -7,20 +7,20 @@
   - []()
 
 - <b>SQL Database Projects</b>
-  - []()
+  - [Prac](https://github.com/sirskin01/job/blob/main/Prac%20copy.ipynb )
   - []()
 
 - <b>Machine Learning Projects</b>
-  - [Supervise Learning with Python]()
+  - [Supervise Learning with Python](https://github.com/sirskin01/job/blob/main/Practice%201%20copy.ipynb )
   - []()
  
 - <b>Power Bi Projects</b>
-  - [Pizza Sales Analysis]()
+  - [Pizza Sales Analysis](https://github.com/sirskin01/job/blob/main/Practice%202%20copy.ipynb )
   - []()
   - []()
     
 - <b>Tableau Projects</b>
-  - []()
+  - [Tableau Prac](https://github.com/sirskin01/job/blob/main/Practice%20copy.ipynb )
 
 
 <h2> 🤳 Connect with me:</h2>
